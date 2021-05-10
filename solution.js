@@ -1,3 +1,9 @@
+// pseudo
+// declare planet table
+// declare earth seconds in a year
+// declare total years which divide given seconds by earth seconds by planet
+// return total years
+
 export function age(planet, seconds) {
 
     let planetOrbits = {
